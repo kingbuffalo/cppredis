@@ -11,6 +11,7 @@ fakeclient
 protoImpl.test
 addGmail
 a.out
+main
 *.rdb
 #
 #common document extensions (case insensitive)
